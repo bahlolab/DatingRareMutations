@@ -6,7 +6,7 @@ This application estimates the age of a genetic mutation, given the known geneti
 
 https://shiny.wehi.edu.au/rafehi.h/mutation-dating/
 
-![screenshot](https://github.com/bahlolab/DatingRareMutations/blob/master/images/20180207_webapp_screenshot.png?raw=true)
+![screenshot](https://github.com/bahlolab/DatingRareMutations/blob/master/images/webapp_screenshot.png?raw=true)
 
 ## R Script Usage
 
